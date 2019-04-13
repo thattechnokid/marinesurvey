@@ -1673,6 +1673,10 @@ body {
   background-color: #ffffff;
   opacity: 0.4;
 }
+.cid-rmPM6KHaPP input,
+.cid-rmPM6KHaPP textarea {
+  margin-bottom: 20px;
+}
 .cid-rmKtD8UeL0 {
   padding-top: 45px;
   padding-bottom: 45px;
