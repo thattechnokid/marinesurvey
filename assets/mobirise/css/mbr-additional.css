@@ -3283,6 +3283,9 @@ body {
 .cid-rmOzJ6E9gw .cid-rnu33KiQlo .text-content {
   padding: 3rem 0rem;
 }
+.cid-rmOzJ6E9gw p.mbr-text {
+  display: none !important;
+}
 .cid-rnu33KiQlo {
   padding-top: 0px;
   padding-bottom: 0px;
