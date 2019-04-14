@@ -2636,6 +2636,15 @@ body {
 .cid-rmPUi2V8MN .mbr-section-title {
   letter-spacing: -1px;
   text-align: left;
+  color: #ffffff;
+}
+.cid-rmPUi2V8MN .mbr-text,
+.cid-rmPUi2V8MN .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-rmPUi2V8MN .mbr-text {
+  width: 70%;
 }
 .cid-rnuckUrKQ6 {
   padding-top: 60px;
