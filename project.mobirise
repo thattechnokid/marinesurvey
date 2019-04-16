@@ -41,18 +41,20 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": "https://www.finncom-msf.com",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-46465940-5\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-46465940-5');\r\n</script>\r\n"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-46465940-5\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-46465940-5');\r\n</script>\r\n",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "testimonials.html": {
       "settings": {
         "title": "Testimonials/Partners",
         "order": 5,
-        "html_before": "<!-- Website designed by Cristian Mendoza from Mendoza Web Design at http://www.mendozawebsites.com  \n\n© 2019 - Present Mendoza Web Design-->"
+        "html_before": "<!-- Website designed by Cristian Mendoza from Mendoza Web Design at http://www.mendozawebsites.com  \n\n© 2019 - Present Mendoza Web Design-->",
+        "header_custom": "<meta name=\"description\" content=\"Building the Equipment that Lets You Scan Deeper!\">\n\n<meta name=\"keywords\" content=\"finncom, marine, survey, fabrication, ocean, sea, matt finnegan, usa, international, world, mounts, ots, tripod, adaptor, protection cage\" />"
       },
       "components": [
         {
@@ -654,7 +656,8 @@
       "settings": {
         "title": "Contact",
         "order": 4,
-        "html_before": "<!-- Website designed by Cristian Mendoza from Mendoza Web Design at http://www.mendozawebsites.com  \n\n© 2019 - Present Mendoza Web Design-->"
+        "html_before": "<!-- Website designed by Cristian Mendoza from Mendoza Web Design at http://www.mendozawebsites.com  \n\n© 2019 - Present Mendoza Web Design-->",
+        "header_custom": "<meta name=\"description\" content=\"Building the Equipment that Lets You Scan Deeper!\">\n\n<meta name=\"keywords\" content=\"finncom, marine, survey, fabrication, ocean, sea, matt finnegan, usa, international, world, mounts, ots, tripod, adaptor, protection cage\" />"
       },
       "components": [
         {
@@ -1290,7 +1293,7 @@
       "settings": {
         "title": "News",
         "order": 3,
-        "header_custom": "<style>\n.cid-rmPZMi1fEr .navbar{\nbackground:none !important;\n}\n</style>",
+        "header_custom": "<meta name=\"description\" content=\"Building the Equipment that Lets You Scan Deeper!\">\n\n<meta name=\"keywords\" content=\"finncom, marine, survey, fabrication, ocean, sea, matt finnegan, usa, international, world, mounts, ots, tripod, adaptor, protection cage\" />\n\n<style>\n.cid-rmPZMi1fEr .navbar{\nbackground:none !important;\n}\n</style>",
         "html_before": "<!-- Website designed by Cristian Mendoza from Mendoza Web Design at http://www.mendozawebsites.com  \n\n© 2019 - Present Mendoza Web Design-->"
       },
       "components": [
@@ -1900,7 +1903,7 @@
       "settings": {
         "title": "Custom Fabrication",
         "order": 2,
-        "header_custom": "",
+        "header_custom": "<meta name=\"description\" content=\"Building the Equipment that Lets You Scan Deeper!\">\n\n<meta name=\"keywords\" content=\"finncom, marine, survey, fabrication, ocean, sea, matt finnegan, usa, international, world, mounts, ots, tripod, adaptor, protection cage\" />",
         "html_before": "<!-- Website designed by Cristian Mendoza from Mendoza Web Design at http://www.mendozawebsites.com  \n\n© 2019 - Present Mendoza Web Design-->"
       },
       "components": [
@@ -2646,7 +2649,7 @@
       "settings": {
         "title": "Products",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<meta name=\"description\" content=\"Building the Equipment that Lets You Scan Deeper!\">\n\n<meta name=\"keywords\" content=\"finncom, marine, survey, fabrication, ocean, sea, matt finnegan, usa, international, world, mounts, ots, tripod, adaptor, protection cage\" />",
         "footer_custom": "",
         "html_before": "<!-- Website designed by Cristian Mendoza from Mendoza Web Design at http://www.mendozawebsites.com  \n\n© 2019 - Present Mendoza Web Design-->",
         "order": 1
@@ -3622,7 +3625,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<style>\n.cid-rmQ0eqfYoG .navbar{\nbackground:none !important;\n}\n</style>",
+        "header_custom": "<meta name=\"description\" content=\"Building the Equipment that Lets You Scan Deeper!\">\n\n\n<meta name=\"keywords\" content=\"finncom, marine, survey, fabrication, ocean, sea, matt finnegan, usa, international, world, mounts, ots, tripod, adaptor, protection cage\" />\n\n<style>\n.cid-rmQ0eqfYoG .navbar{\nbackground:none !important;\n}\n</style>",
         "footer_custom": "",
         "html_before": "<!-- Website designed by Cristian Mendoza from Mendoza Web Design at http://www.mendozawebsites.com  \n\n© 2019 - Present Mendoza Web Design-->"
       },
