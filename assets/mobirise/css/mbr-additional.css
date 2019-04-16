@@ -3595,6 +3595,21 @@ body {
     justify-content: center !important;
   }
 }
+.cid-rnM5PJe60H {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-rnM5PJe60H .media-container-row {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-rnM5PJe60H .media-container-row .mbr-text {
+  color: #ffffff;
+}
+.cid-rnM5PJe60H .mbr-text {
+  font-size: 10px;
+}
 .cid-rmQ0eqfYoG .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
