@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "marine-survey",
-    "currentPage": "custom.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
@@ -473,7 +473,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Start BawkBox Code-->[JS_CODE_0][JS_CODE_1]<div class=\"sil-widget-star-rating sil-widget\" id=\"sil-widget-5ca7e75057b68d0010bac6f1\"><a href=\"//bawkbox.com/install/star-rating\">Customer Reviews</a></div><!-- End BawkBox Code-->\n",
+          "_customHTML": "<h3>Ratings</h3><!-- Start BawkBox Code-->[JS_CODE_0][JS_CODE_1]<div class=\"sil-widget-star-rating sil-widget\" id=\"sil-widget-5cb765301e20c50010df2fc1\"><a href=\"//bawkbox.com/install/star-rating\">Customer Reviews</a></div><!-- End BawkBox Code-->\n",
           "_customCSS": "position: relative;\noverflow: hidden;\npadding: 30px;\ndisclaimer{\n    display:none !important\n}",
           "alias": "code-editor",
           "_tags": [
@@ -483,8 +483,8 @@
           "_anchor": "custom-html-p",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script data-sil-id=\"5ca7e75057b68d0010bac6f1\">let loadWidget = function() { var d = document, w = window, l = window.location,p = l.protocol == \"file:\" ? \"http://\" : \"//\"; if (!w.WS) w.WS = {}; c = w.WS; var m=function(t, o){ var e = d.getElementsByTagName(\"script\"); e=e[e.length-1]; var n = d.createElement(t); if (t==\"script\") {n.async=true;} for (k in o) n[k] = o[k]; e.parentNode.insertBefore(n, e)}; m(\"script\", { src: p + \"bawkbox.com/widget/star-rating/5ca7e75057b68d0010bac6f1?page=\" +encodeURIComponent(l+''), type: 'text/javascript' }); c.load_net = m; }; if(window.Squarespace){ document.addEventListener('DOMContentLoaded', loadWidget); } else { loadWidget() } </script>",
-            "<script type=\"application/ld+json\" src=\"/widget/star-rating/5ca7e75057b68d0010bac6f1/microdata\"></script>"
+            "<script data-sil-id=\"5cb765301e20c50010df2fc1\">let loadWidget = function() { var d = document, w = window, l = window.location,p = l.protocol == \"file:\" ? \"http://\" : \"//\"; if (!w.WS) w.WS = {}; c = w.WS; var m=function(t, o){ var e = d.getElementsByTagName(\"script\"); e=e[e.length-1]; var n = d.createElement(t); if (t==\"script\") {n.async=true;} for (k in o) n[k] = o[k]; e.parentNode.insertBefore(n, e)}; m(\"script\", { src: p + \"bawkbox.com/widget/star-rating/5cb765301e20c50010df2fc1?page=\" +encodeURIComponent(l+''), type: 'text/javascript' }); c.load_net = m; }; if(window.Squarespace){ document.addEventListener('DOMContentLoaded', loadWidget); } else { loadWidget() } </script>",
+            "<script type=\"application/ld+json\" src=\"/widget/star-rating/5cb765301e20c50010df2fc1/microdata\"></script>"
           ]
         },
         {
@@ -1721,7 +1721,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "\n<!-- Start BawkBox Code-->[JS_CODE_0]<div class=\"sil-widget-blog sil-widget\" id=\"sil-widget-5ca6f58957b68d0010baaa25\"><a href=\"//bawkbox.com/install/blog\"></a></div><!-- End BawkBox Code-->\n",
+          "_customHTML": "<h3></h3><!-- Start BawkBox Code-->[JS_CODE_0]<div class=\"sil-widget-blog sil-widget\" id=\"sil-widget-5cb768a21e20c50010df3077\"><a href=\"//bawkbox.com/install/blog\"></a></div><!-- End BawkBox Code-->",
           "_customCSS": "position: relative;\noverflow: hidden;",
           "alias": "code-editor",
           "_tags": [
@@ -1731,7 +1731,7 @@
           "_anchor": "custom-html-6",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script data-sil-id=\"5ca6f58957b68d0010baaa25\">let loadWidget = function() { var d = document, w = window, l = window.location,p = l.protocol == \"file:\" ? \"http://\" : \"//\"; if (!w.WS) w.WS = {}; c = w.WS; var m=function(t, o){ var e = d.getElementsByTagName(\"script\"); e=e[e.length-1]; var n = d.createElement(t); if (t==\"script\") {n.async=true;} for (k in o) n[k] = o[k]; e.parentNode.insertBefore(n, e)}; m(\"script\", { src: p + \"bawkbox.com/widget/blog/5ca6f58957b68d0010baaa25?page=\" +encodeURIComponent(l+''), type: 'text/javascript' }); c.load_net = m; }; if(window.Squarespace){ document.addEventListener('DOMContentLoaded', loadWidget); } else { loadWidget() } </script>"
+            "<script data-sil-id=\"5cb768a21e20c50010df3077\">let loadWidget = function() { var d = document, w = window, l = window.location,p = l.protocol == \"file:\" ? \"http://\" : \"//\"; if (!w.WS) w.WS = {}; c = w.WS; var m=function(t, o){ var e = d.getElementsByTagName(\"script\"); e=e[e.length-1]; var n = d.createElement(t); if (t==\"script\") {n.async=true;} for (k in o) n[k] = o[k]; e.parentNode.insertBefore(n, e)}; m(\"script\", { src: p + \"bawkbox.com/widget/blog/5cb768a21e20c50010df3077?page=\" +encodeURIComponent(l+''), type: 'text/javascript' }); c.load_net = m; }; if(window.Squarespace){ document.addEventListener('DOMContentLoaded', loadWidget); } else { loadWidget() } </script>"
           ]
         },
         {
